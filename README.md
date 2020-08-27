@@ -3,4 +3,3 @@
 [![CircleCI](https://circleci.com/gh/pawanbahuguna/status-badge/tree/feature%2Freset-password-notification.svg?style=shield)](https://app.circleci.com/pipelines/github/pawanbahuguna/status-badge)
 
 This is a very basic CircleCI config that will spin up a Docker container and echo "Hello World".
-Copy the config into your own project to produce a green build.
